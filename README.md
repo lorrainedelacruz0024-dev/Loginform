@@ -8,7 +8,6 @@ This website was developed to present important information about Rosales Nation
 -Facilities
 -mission/vision
 -contact info
--
 
 ## Author 
 Lorraine Irosido
