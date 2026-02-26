@@ -4,10 +4,11 @@ This website was developed to present important information about Rosales Nation
 
 ## Features
 
-- {Mission/Vision}(#mission/Vision)
-- {Facilities}(#facilities)
-- {About the RNHS}(#about the RNHS)
-- {Contact Info}(#contact Info)
+-About
+-Facilities
+-mission/vision
+-contact info
+-
 
 ## Author 
 Lorraine Irosido
